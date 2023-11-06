@@ -8,7 +8,7 @@ void main() {
   runApp(
       MaterialApp(
       title: 'Returning Data',
-      home:Profile_schreen(data: "this is some data",),
+      home:Profile_schreen(data: "the data i have changed. !",),
       // TodosScreen(todos: List.generate(20, (index) => Todo('Todo $index', 'description $index')),),
     ),
   );
